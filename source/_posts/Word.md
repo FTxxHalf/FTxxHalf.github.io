@@ -9,10 +9,6 @@ categories:
  - 2021/12/4
  - 单词记忆
 ---
-<p><font size="3" color="LightPink" face="楷体">听着歌记单词吧 </font><a href="https://www.bilibili.com/video/BV1Yq4y1K7Cm?share_source=copy_web">
-<cite>【武士桑×ゆう十】Hello／How are you【吉他版】</cite></a>
-</p>
-<p><font size="3" face="楷体">每天至少 <abbr <font size="3" color="#FFF0F5" face="楷体"> <abbr title="每天30个？">记忆单词</abbr></font></abbr> 30个！</font></p>
 <dl>
   <dt>annually</dt>
     <dd> adv.每年地、一年一次的</dd>
