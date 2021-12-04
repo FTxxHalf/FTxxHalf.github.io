@@ -3,9 +3,6 @@ title: 记单词
 thumbnail: '/assets/img/单词记忆1.jpg'
 first_image_as_thumbnail: true
 after_post: 每天都要记！！！
-password: 138828
-message: 为什么记个单词也要设密码？？？
-wrong_pass_message: 我记个单词你也要偷看？？
 encrypt: true
 abstract: 2021年12月4日
 categories:
